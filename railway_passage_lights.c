@@ -5,7 +5,7 @@
 
 
 #ifndef F_CPU
-#define F_CPU 1250000UL // 16 MHz clock speed
+#define F_CPU 1250000UL // 125 kHz clock speed
 #endif
 #include <avr/interrupt.h>
 #include <avr/io.h>
